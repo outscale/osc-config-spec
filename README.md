@@ -94,7 +94,7 @@ The default configuration is a json file which is located by default in ~/.osc/c
 | $.*.x509_client_cert_b64 | string | OSC_X509_CLIENT_CERT_B64 | |
 | $.*.x509_client_key | string | OSC_X509_CLIENT_KEY	| |
 | $.*.x509_client_key_b64 | string | OSC_X509_CLIENT_KEY_B64	| |
-| $.*.region	string | OSC_REGION | |
+| $.*.region | string | OSC_REGION | |
 | $.*.endpoints.api | string | OSC_ENDPOINT_API | |
 | $.*.endpoints.fcu | string | OSC_ENDPOINT_FCU | |
 | $.*.endpoints.lbu | string | OSC_ENDPOINT_LBU | |
