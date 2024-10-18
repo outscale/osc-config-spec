@@ -58,14 +58,14 @@ The default configuration is a json file which is located by default in ~/.osc/c
 
 ## Sample
 
-```
+```json
 {
   "default": {
     "access_key": "F4K4T706S9000EXAMPLE",
     "secret_key": "E4XJE8EJ98ZEJ18E4J9ZE84J19Q8E1000EXAMPLE",
     "x509_client_cert": "/etc/secret/client.crt",
     "x509_client_key": "/etc/secret/client.key",
-    "region": "eu-west-2"
+    "region": "eu-west-2",
     "endpoints": {
       "api": "https://api.eu-west-2.outscale.com",
       "fcu": "https://fcu.eu-west-2.outscale.com",
