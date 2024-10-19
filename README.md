@@ -6,6 +6,8 @@ With more and more tools to interact with Outscale APIs, several formats were bo
 
 This page describe a standard way to handle parameters in various Outscale tools.
 
+*Note that each tools doesn't have to support any of thoses variables, but if a tool enable the user to confiure something, it should do it this way.*
+
 # Configuration order
 
 Tools configuration can be done through different ways:
